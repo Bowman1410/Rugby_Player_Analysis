@@ -1,0 +1,10 @@
+# Ignore video files
+*.avi
+
+# Ignore model files
+*.pt
+
+# Ignore output directories
+output_videos/
+runs/detect/predict/
+training/
